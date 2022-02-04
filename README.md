@@ -8,9 +8,11 @@
 - package main (executable)
 - library non main
 - function dengan huruf Kapital = Akses Public
-- Sprintf - mengembalikan string
+- sprintf - mengembalikan string
   -%s - string
   -%d - angka
-- Println - mencetak sebuah string
+- println - mencetak sebuah string
+- import - memanggil standar library golang, pacakge custom(sendiri),pihak ke-3
+- funt main() - method khusu di package main
 
 ### Note

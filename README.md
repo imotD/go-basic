@@ -4,3 +4,4 @@
 
 - go run
 - go build
+- source ~/.profile

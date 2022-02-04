@@ -7,10 +7,10 @@
 - source ~/.profile
 - package main (executable)
 - library non main
-
-### Note
-
+- function dengan huruf Kapital = Akses Public
 - Sprintf - mengembalikan string
   -%s - string
   -%d - angka
 - Println - mencetak sebuah string
+
+### Note
